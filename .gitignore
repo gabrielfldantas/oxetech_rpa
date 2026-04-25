@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Database
+database.db
+
+# VSCode
+.vscode/
+
+# Logs
+logs/
+
+# Claude
+.claude/
+CLAUDE.md
