@@ -7,7 +7,7 @@ Servidor REST modular construído com **FastAPI** + **SQLite** para prática de 
 ```bash
 # 1. Clonar o repositório
 git clone <repo-url>
-cd oxetech_rpa/playground_server
+cd oxetech_rpa/playground_server_py
 
 # 2. Instalar dependências (requer uv - https://docs.astral.sh/uv/)
 uv sync
