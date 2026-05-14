@@ -50,5 +50,8 @@
 
 ### [Módulo 7 - Projeto Final Integrador](/modulos/modulo_7)
 
-## [Playground Server](playground_server/)
+## [Playground Server em Python](playground_server_py/)
 - O Playground Server é um servidor REST modular construído em Python para prática de integrações de sistemas.
+
+## [Playground Server em JS](playground_server_js/)
+- O Playground Server é um servidor REST modular construído em JavaScript para prática de integrações de sistemas.
