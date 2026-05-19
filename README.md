@@ -55,3 +55,6 @@
 
 ## [Playground Server em JS](playground_server_js/)
 - O Playground Server é um servidor REST modular construído em JavaScript para prática de integrações de sistemas.
+
+## Projetos em FastAPI
+- Exemplos de implementação em FastAPI.
